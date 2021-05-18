@@ -1,7 +1,6 @@
 <?php
-require_once "views/page_login.php";
 
-
+include "views/cam/form_cadastrar.php";
 
 
 
