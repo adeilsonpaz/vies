@@ -1,116 +1,116 @@
 <!doctype html>
 <html lang="pt-BR">
-  <head>
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Vies - Login</title>
-<style type="text/css">
-body {
-    color: #000;
-    overflow-x: hidden;
-    height: 100%;
-    background-color: #B0BEC5;
-    background-repeat: no-repeat
-}
+    <head>
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <title>Vies - Login</title>
+        <style type="text/css">
+            body {
+            color: #000;
+            overflow-x: hidden;
+            height: 100%;
+            background-color: #B0BEC5;
+            background-repeat: no-repeat
+            }
 
-.card0 {
-    box-shadow: 0px 4px 8px 0px #757575;
-    border-radius: 0px
-}
+            .card0 {
+                box-shadow: 0px 4px 8px 0px #757575;
+                border-radius: 0px
+            }
 
-.card2 {
-    margin: 0px 40px
-}
+            .card2 {
+                margin: 0px 40px
+            }
 
-.image {
-    width: 360px;
-    height: 280px
-}
+            .image {
+                width: 360px;
+                height: 280px
+            }
 
-.text-sm {
-    font-size: 14px !important
-}
+            .text-sm {
+                font-size: 14px !important
+            }
 
-::placeholder {
-    color: #BDBDBD;
-    opacity: 1;
-    font-weight: 300
-}
+            ::placeholder {
+                color: #BDBDBD;
+                opacity: 1;
+                font-weight: 300
+            }
 
-:-ms-input-placeholder {
-    color: #BDBDBD;
-    font-weight: 300
-}
+            :-ms-input-placeholder {
+                color: #BDBDBD;
+                font-weight: 300
+            }
 
-::-ms-input-placeholder {
-    color: #BDBDBD;
-    font-weight: 300
-}
+            ::-ms-input-placeholder {
+                color: #BDBDBD;
+                font-weight: 300
+            }
 
-input,
-textarea {
-    padding: 10px 12px 10px 12px;
-    border: 1px solid lightgrey;
-    border-radius: 2px;
-    margin-bottom: 5px;
-    margin-top: 2px;
-    width: 100%;
-    box-sizing: border-box;
-    color: #2C3E50;
-    font-size: 14px;
-    letter-spacing: 1px
-}
+            input,
+            textarea {
+                padding: 10px 12px 10px 12px;
+                border: 1px solid lightgrey;
+                border-radius: 2px;
+                margin-bottom: 5px;
+                margin-top: 2px;
+                width: 100%;
+                box-sizing: border-box;
+                color: #2C3E50;
+                font-size: 14px;
+                letter-spacing: 1px
+            }
 
-input:focus,
-textarea:focus {
-    -moz-box-shadow: none !important;
-    -webkit-box-shadow: none !important;
-    box-shadow: none !important;
-    border: 1px solid #304FFE;
-    outline-width: 0
-}
+            input:focus,
+            textarea:focus {
+                -moz-box-shadow: none !important;
+                -webkit-box-shadow: none !important;
+                box-shadow: none !important;
+                border: 1px solid #304FFE;
+                outline-width: 0
+            }
 
-button:focus {
-    -moz-box-shadow: none !important;
-    -webkit-box-shadow: none !important;
-    box-shadow: none !important;
-    outline-width: 0
-}
+            button:focus {
+                -moz-box-shadow: none !important;
+                -webkit-box-shadow: none !important;
+                box-shadow: none !important;
+                outline-width: 0
+            }
 
-a {
-    color: inherit;
-    cursor: pointer
-}
+            a {
+                color: inherit;
+                cursor: pointer
+            }
 
-.btn-blue {
-    background-color: #1A237E;
-    width: 150px;
-    color: #fff;
-    border-radius: 2px
-}
+            .btn-blue {
+                background-color: #1A237E;
+                width: 150px;
+                color: #fff;
+                border-radius: 2px
+            }
 
-.btn-blue:hover {
-    background-color: #000;
-    cursor: pointer
-}
+            .btn-blue:hover {
+                background-color: #000;
+                cursor: pointer
+            }
 
-.bg-blue {
-    text-align: center;
-    color: #fff;
-    background-color: #1A237E
-}
+            .bg-blue {
+                text-align: center;
+                color: #fff;
+                background-color: #1A237E
+            }
 
-@media screen and (max-width: 991px) {
-    .image {
-        width: 300px;
-        height: 220px
-    }
-    .card2 {
-        border-top: 1px solid #EEEEEE !important;
-        margin: 0px 15px
-    }
-}
-</style>
-  </head>
+            @media screen and (max-width: 991px) {
+                .image {
+                    width: 300px;
+                    height: 220px
+                }
+                .card2 {
+                    border-top: 1px solid #EEEEEE !important;
+                    margin: 0px 15px
+                }
+            }
+        </style>
+    </head>
   <body class="text-center">
     <div class="container-fluid px-1 px-md-5 px-lg-1 px-xl-5 py-5 mx-auto">
     <div class="card card0 border-0">
@@ -140,7 +140,7 @@ a {
             </div>
         </div>
         <div class="bg-blue py-4">
-            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2">Vies - Copyright &copy; 2019. All rights reserved.</small>
+            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2">Vies - Copyright &copy; 2019. Todos os Direitos Reservados.</small>
             </div>
         </div>
     </div>
