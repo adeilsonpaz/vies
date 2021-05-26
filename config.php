@@ -1,5 +1,4 @@
 <?php
-//namespace Caser;
 class Config{	
 	//Conexão com banco	
 	public function baseDados(){

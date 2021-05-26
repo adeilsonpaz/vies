@@ -152,7 +152,7 @@
                 </div>
                 <div class="bg-blue py-4">
                     <div class="row px-3">
-                        <small class="ml-4 ml-sm-5 mb-2">Vies - Copyright &copy; 2019. Todos os Direitos Reservados.</small>
+                        <small class="ml-4 ml-sm-5 mb-2">Vies - Copyright &copy; 2021. Todos os Direitos Reservados.</small>
                     </div>
                 </div>
             </div>
